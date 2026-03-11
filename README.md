@@ -60,37 +60,6 @@
 
 ---
 
-## 🏆 Honors & Awards
-
-- 电工杯数学建模竞赛 **国家三等奖**
-- 高教社杯数学建模竞赛 **江苏省一等奖**
-- 码蹄杯程序设计竞赛 **江苏省银奖**
-- 全国大学生数学竞赛 **江苏省三等奖**
-- 校级"科研创新先进个人"
-- 连续三年校优秀学生奖学金
-
----
-
-## 🎓 Education
-
-| 时间 | 学校 | 专业 | 备注 |
-|------|------|------|------|
-| 2022.09 - 2026.06 | 南京师范大学 (211) | 人工智能 (主修) | GPA: 3.25 / Top 20% |
-| 2022.09 - 2026.06 | 南京师范大学 (211) | 教育学 (辅修) | 跨学科双学位 |
-
----
-
-## 💻 Technical Skills
-
-```
-Languages:    Python, C++, LaTeX, Markdown
-Frameworks:   PyTorch, PyTorch Geometric, NumPy, Pandas
-Tools:        Git, Linux, VS Code, Jupyter
-Domain:       Deep Learning, Reinforcement Learning, Graph Neural Networks
-```
-
----
-
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waferen&layout=compact&theme=default)
