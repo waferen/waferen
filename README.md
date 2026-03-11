@@ -1,0 +1,108 @@
+# Shibo Li (李世博) 🎓
+
+> 人工智能 × 教育学 | 高效机器学习研究者
+
+[![Email](https://img.shields.io/badge/Email-2835817201@qq.com-blue?style=flat-square&logo=gmail)](mailto:2835817201@qq.com)
+[![Blog](https://img.shields.io/badge/Blog-waferen.github.io-orange?style=flat-square&logo=github)](https://waferen.github.io/)
+[![Location](https://img.shields.io/badge/Location-Nanjing-green?style=flat-square)](https://)
+
+---
+
+## 🔬 Research Interests
+
+- **Continual Learning**: Mitigating catastrophic forgetting in neural networks
+- **Graph Neural Networks**: Hierarchical GNN for structured data
+- **Trajectory Prediction**: Autonomous driving scene understanding
+- **Efficient ML**: Edge AI and model compression
+
+---
+
+## 📚 Selected Projects
+
+### 1. View-Batch Replay for Continual Learning
+**毕业设计 | Python + PyTorch**
+
+受认知心理学间隔效应启发，提出View-Batch Replay机制缓解神经网络灾难性遗忘。
+
+- 核心创新：同一样本4次重复采样 + 渐进式数据增强 + KL散度一致性损失
+- 实验结果：CIFAR-10类增量学习，准确率从71.67%提升至72.97%，遗忘率降低50.8%
+- 关键词：Continual Learning, Catastrophic Forgetting, Self-supervised Learning
+
+[![ViewBatchModel](https://img.shields.io/badge/Repo-ViewBatchModel-181717?style=flat-square&logo=github)](https://github.com/waferen/ViewBatchModel)
+
+---
+
+### 2. AlphaZero Chinese Chess
+**强化学习 | Python + C++ + PyTorch**
+
+基于AlphaZero范式构建中国象棋博弈AI。
+
+- 系统架构：多进程生产者-消费者架构，自我对弈数据收集与网络训练并行
+- 网络设计：ResNet双头网络，7层残差块，策略头输出2086维走法概率
+- MCTS：PUCT算法，2000次playout，Dirichlet Noise增强探索
+
+[![AlphaChess](https://img.shields.io/badge/Repo-AlphaChess-181717?style=flat-square&logo=github)](https://github.com/waferen/aichess)
+
+---
+
+### 3. GNN-Transformer Trajectory Prediction ⭐ *NEW*
+**自动驾驶 | Python + PyTorch Geometric**
+
+复现Waymo VectorNet论文，层次化图神经网络+Transformer实现轨迹预测。
+
+- GNN编码器：SubGraph消息传递网络聚合折线特征，3层GraphLayerProp
+- Transformer：Multi-Head Self-Attention建模代理间交互，Masked Softmax处理变长序列
+- 实验结果：Argoverse数据集，20帧历史→30帧预测，minADE=2.637, minFDE=6.992
+
+[![VectorNet](https://img.shields.io/badge/Repo-VectorNet-181717?style=flat-square&logo=github)](https://github.com/waferen/GNN-Transformer-Trajectory-Prediction)
+
+---
+
+## 🏆 Honors & Awards
+
+- 电工杯数学建模竞赛 **国家三等奖**
+- 高教社杯数学建模竞赛 **江苏省一等奖**
+- 码蹄杯程序设计竞赛 **江苏省银奖**
+- 全国大学生数学竞赛 **江苏省三等奖**
+- 校级"科研创新先进个人"
+- 连续三年校优秀学生奖学金
+
+---
+
+## 🎓 Education
+
+| 时间 | 学校 | 专业 | 备注 |
+|------|------|------|------|
+| 2022.09 - 2026.06 | 南京师范大学 (211) | 人工智能 (主修) | GPA: 3.25 / Top 20% |
+| 2022.09 - 2026.06 | 南京师范大学 (211) | 教育学 (辅修) | 跨学科双学位 |
+
+---
+
+## 💻 Technical Skills
+
+```
+Languages:    Python, C++, LaTeX, Markdown
+Frameworks:   PyTorch, PyTorch Geometric, NumPy, Pandas
+Tools:        Git, Linux, VS Code, Jupyter
+Domain:       Deep Learning, Reinforcement Learning, Graph Neural Networks
+```
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waferen&layout=compact&theme=default)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: [2835817201@qq.com](mailto:2835817201@qq.com)
+- 📝 Blog: [waferen.github.io](https://waferen.github.io/)
+- 🏫 Location: 南京师范大学仙林校区
+
+---
+
+*"Education is not the filling of a pail, but the lighting of a fire." —— William Butler Yeats*
+
+*致力于让机器学习像人类学习一样高效*
