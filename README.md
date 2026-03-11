@@ -20,15 +20,17 @@
 ## 📚 Selected Projects
 
 ### 1. View-Batch Replay for Continual Learning
-**毕业设计 | Python + PyTorch**
+**毕业设计 | Python + PyTorch | CVPR 2025 复现**
 
-受认知心理学间隔效应启发，提出View-Batch Replay机制缓解神经网络灾难性遗忘。
+复现CVPR 2025论文《Replay Compression for Class-Incremental Learning》(arXiv:2503.18371v1)，受认知心理学间隔效应启发，实现View-Batch Replay机制缓解神经网络灾难性遗忘。
 
-- 核心创新：同一样本4次重复采样 + 渐进式数据增强 + KL散度一致性损失
-- 实验结果：CIFAR-10类增量学习，准确率从71.67%提升至72.97%，遗忘率降低50.8%
-- 关键词：Continual Learning, Catastrophic Forgetting, Self-supervised Learning
+- **论文复现**: 完整实现View-Batch Replay采样机制、渐进式数据增强、KL散度一致性损失
+- **改进探索**: 测试不同aug_repeat参数和多种渐进式增强策略，发现高斯噪声效果最佳
+- **实验结果**: CIFAR-10类增量学习，准确率从71.67%提升至72.97%，遗忘率降低50.8%
+- **关键词**: Continual Learning, Catastrophic Forgetting, Self-supervised Learning
 
 [![ViewBatchModel](https://img.shields.io/badge/Repo-ViewBatchModel-181717?style=flat-square&logo=github)](https://github.com/waferen/ViewBatchModel)
+[![Paper](https://img.shields.io/badge/Paper-arXiv:2503.18371v1-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.18371v1)
 
 ---
 
