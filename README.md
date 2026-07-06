@@ -43,7 +43,6 @@
 - 网络设计：ResNet双头网络，7层残差块，策略头输出2086维走法概率
 - MCTS：PUCT算法，2000次playout，Dirichlet Noise增强探索
 
-[![AlphaChess](https://img.shields.io/badge/Repo-AlphaChess-181717?style=flat-square&logo=github)](https://github.com/waferen/aichess)
 
 ---
 
@@ -56,13 +55,6 @@
 - Transformer：Multi-Head Self-Attention建模代理间交互，Masked Softmax处理变长序列
 - 实验结果：Argoverse数据集，20帧历史→30帧预测，minADE=2.637, minFDE=6.992
 
-[![VectorNet](https://img.shields.io/badge/Repo-VectorNet-181717?style=flat-square&logo=github)](https://github.com/waferen/GNN-Transformer-Trajectory-Prediction)
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waferen&layout=compact&theme=default)
 
 ---
 
