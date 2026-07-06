@@ -1,6 +1,6 @@
 # Shibo Li (李世博) 🎓
 
-> 人工智能 × 教育学 | 高效机器学习研究者
+> 人工智能 × 教育学
 
 [![Email](https://img.shields.io/badge/Email-2835817201@qq.com-blue?style=flat-square&logo=gmail)](mailto:2835817201@qq.com)
 [![Blog](https://img.shields.io/badge/Blog-waferen.github.io-orange?style=flat-square&logo=github)](https://waferen.github.io/)
