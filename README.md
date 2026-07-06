@@ -45,7 +45,7 @@
 
 ---
 
-### 3. GNN-Transformer Trajectory Prediction ⭐ *NEW*
+### 3. GNN-Transformer Trajectory Prediction
 **自动驾驶 | Python + PyTorch Geometric**
 
 复现Waymo VectorNet论文，层次化图神经网络+Transformer实现轨迹预测。
