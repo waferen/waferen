@@ -29,7 +29,6 @@
 - **实验结果**: CIFAR-10类增量学习，准确率从71.67%提升至72.97%，遗忘率降低50.8%
 - **关键词**: Continual Learning, Catastrophic Forgetting, Self-supervised Learning
 
-[![ViewBatchModel](https://img.shields.io/badge/Repo-ViewBatchModel-181717?style=flat-square&logo=github)](https://github.com/waferen/ViewBatchModel)
 [![Paper](https://img.shields.io/badge/Paper-arXiv:2503.18371v1-B31B1B?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2503.18371v1)
 
 ---
